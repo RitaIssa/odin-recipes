@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(255, 255, 190);
+    font-family: "Courier New", "Lucida Console", Monaco;
+}
+
+img{
+    width: 750px;
+    border-radius: 15px;
+}
+
+h1{
+    font-size: 70px;
+    text-align: center;
+    font-weight: bold;
+    color: lightgreen;
+}
+
+h2{
+    font-size: 50px;
+}
+
+h3{
+    font-weight: bold;
+    font-size: 40px;
+}
