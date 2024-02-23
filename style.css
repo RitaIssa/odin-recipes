@@ -6,6 +6,7 @@ body{
 #gif{
     width: 800px;
     height: auto;
+    margin: 0 525px;
 }
 
 h1{
@@ -17,4 +18,11 @@ h1{
 ul{
     text-align: center;
     font-size: 40px;
+    margin: 100px 625px;
+}
+
+li{
+    padding: 20px;
+    border: 5px dotted lightseagreen;
+    margin: 30px;
 }
